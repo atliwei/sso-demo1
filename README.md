@@ -1,4 +1,4 @@
-**测试账号:test0007**  
-**密码:@1Paraview**  
+**测试账号:testliwei**  
+**密码:paraview**  
 ***
-直接访问`localhost:8080`即可
+直接访问`localhost:8080`

@@ -1,4 +1,4 @@
-package com.para.hezz.sso.demo.controller;
+package com.para.liwei.sso.demo.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

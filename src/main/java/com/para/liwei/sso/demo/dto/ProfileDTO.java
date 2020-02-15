@@ -1,15 +1,13 @@
-package com.para.hezz.sso.demo.dto;
+package com.para.liwei.sso.demo.dto;
 
 import lombok.Data;
 
 @Data
-public class AccessTokenDTO {
+public class ProfileDTO {
     private String client_id;
     private String client_secret;
-    private String code;
-    private String redirect_uri;
+    private String access_token;
     private String oauth_timestamp;
-    private String grant_type;
     private String nonce_str;
     private String sign;
 }

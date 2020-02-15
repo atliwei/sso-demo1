@@ -1,4 +1,4 @@
-package com.para.hezz.sso.demo.dto;
+package com.para.liwei.sso.demo.dto;
 
 import lombok.Data;
 

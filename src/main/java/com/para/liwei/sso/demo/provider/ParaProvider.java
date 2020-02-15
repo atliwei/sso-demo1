@@ -1,10 +1,10 @@
-package com.para.hezz.sso.demo.provider;
+package com.para.liwei.sso.demo.provider;
 
 import com.alibaba.fastjson.JSON;
-import com.para.hezz.sso.demo.dto.AccessTokenDTO;
-import com.para.hezz.sso.demo.dto.ProfileDTO;
-import com.para.hezz.sso.demo.dto.TokenDTO;
-import com.para.hezz.sso.demo.dto.UserDTO;
+import com.para.liwei.sso.demo.dto.AccessTokenDTO;
+import com.para.liwei.sso.demo.dto.ProfileDTO;
+import com.para.liwei.sso.demo.dto.TokenDTO;
+import com.para.liwei.sso.demo.dto.UserDTO;
 import okhttp3.*;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;

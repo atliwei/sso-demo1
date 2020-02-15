@@ -1,9 +1,9 @@
-package com.para.hezz.sso.demo.controller;
+package com.para.liwei.sso.demo.controller;
 
-import com.para.hezz.sso.demo.dto.AccessTokenDTO;
-import com.para.hezz.sso.demo.dto.ProfileDTO;
-import com.para.hezz.sso.demo.dto.UserDTO;
-import com.para.hezz.sso.demo.provider.ParaProvider;
+import com.para.liwei.sso.demo.dto.AccessTokenDTO;
+import com.para.liwei.sso.demo.dto.ProfileDTO;
+import com.para.liwei.sso.demo.dto.UserDTO;
+import com.para.liwei.sso.demo.provider.ParaProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
